@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\Sampol.csproj",
-      "projectName": "Sampol",
-      "projectPath": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\Sampol.csproj",
+      "projectUniqueName": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\pcgames.csproj",
+      "projectName": "pcgames",
+      "projectPath": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\pcgames.csproj",
       "packagesPath": "C:\\Users\\ojt\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\obj\\",
       "projectStyle": "PackageReference",
