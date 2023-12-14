@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ojt\source\repos\Sampol\Sampol
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/AL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/CS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Dota.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG90YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Lol.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9sLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ojt/source/repos/Sampol/Sampol/Pages/Valo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmFsby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ojt/source/repos/Sampol/Sampol/Pages/_ViewImports.cshtml]

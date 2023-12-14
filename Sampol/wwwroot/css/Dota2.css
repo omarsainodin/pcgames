@@ -1,0 +1,32 @@
+﻿body {
+    background-image: url('dota2.jpg');
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    border-style: none;
+    background-color: maroon;
+    border-radius: 5px;
+    opacity: 80%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the table horizontally */
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+.dt {
+    border-style: solid;
+    opacity: 100%;
+    border-radius: 5px;
+    background-color: white;
+    border-width: 10px;
+}

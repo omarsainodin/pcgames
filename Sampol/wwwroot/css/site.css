@@ -14,5 +14,60 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-image: url('gaming.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 100%;
 }
+
+p {
+    border-style: solid;
+    color: black;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 160%;
+    margin: 70px;
+    background-color: white;
+    border-block-color: black;
+    border-width: 10px;
+
+}
+
+footer {
+     background-color: black;
+     text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #39FF14;
+    }
+
+li a.active {
+    color: white;
+    background-color: #39FF14;
+}
+
+img {
+    border-style: solid;
+    border-width: 20px;
+    
+}
+

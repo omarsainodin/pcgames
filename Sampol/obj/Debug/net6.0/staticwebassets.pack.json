@@ -1,0 +1,417 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Sampol.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sampol.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\Al.css",
+      "PackagePath": "staticwebassets\\css\\Al.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\Cs.css",
+      "PackagePath": "staticwebassets\\css\\Cs.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\Dota2.css",
+      "PackagePath": "staticwebassets\\css\\Dota2.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\Lol.css",
+      "PackagePath": "staticwebassets\\css\\Lol.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\Valo.css",
+      "PackagePath": "staticwebassets\\css\\Valo.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\algp1.jpg",
+      "PackagePath": "staticwebassets\\css\\algp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\algp2.jpg",
+      "PackagePath": "staticwebassets\\css\\algp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\algp3.jpg",
+      "PackagePath": "staticwebassets\\css\\algp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\algp4.jpg",
+      "PackagePath": "staticwebassets\\css\\algp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\apex.jpg",
+      "PackagePath": "staticwebassets\\css\\apex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\bglol.jpg",
+      "PackagePath": "staticwebassets\\css\\bglol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\bglol.webp",
+      "PackagePath": "staticwebassets\\css\\bglol.webp"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\cs go.jpg",
+      "PackagePath": "staticwebassets\\css\\cs go.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\cs.jpg",
+      "PackagePath": "staticwebassets\\css\\cs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\csgp1.jpg",
+      "PackagePath": "staticwebassets\\css\\csgp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\csgp2.jpg",
+      "PackagePath": "staticwebassets\\css\\csgp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\csgp3.jpg",
+      "PackagePath": "staticwebassets\\css\\csgp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\csgp4.jpg",
+      "PackagePath": "staticwebassets\\css\\csgp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dota.jpg",
+      "PackagePath": "staticwebassets\\css\\dota.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dota2.jpg",
+      "PackagePath": "staticwebassets\\css\\dota2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dotagp1.jpg",
+      "PackagePath": "staticwebassets\\css\\dotagp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dotagp2.jpg",
+      "PackagePath": "staticwebassets\\css\\dotagp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dotagp3.jpg",
+      "PackagePath": "staticwebassets\\css\\dotagp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\dotagp4.jpg",
+      "PackagePath": "staticwebassets\\css\\dotagp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\gaming.jpg",
+      "PackagePath": "staticwebassets\\css\\gaming.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\images.jpg",
+      "PackagePath": "staticwebassets\\css\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\laro.jpg",
+      "PackagePath": "staticwebassets\\css\\laro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\lol.jpg",
+      "PackagePath": "staticwebassets\\css\\lol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\lolgp1.jpg",
+      "PackagePath": "staticwebassets\\css\\lolgp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\lolgp2.jpg",
+      "PackagePath": "staticwebassets\\css\\lolgp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\lolgp3.jpg",
+      "PackagePath": "staticwebassets\\css\\lolgp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\lolgp4.jpg",
+      "PackagePath": "staticwebassets\\css\\lolgp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\neon.jpg",
+      "PackagePath": "staticwebassets\\css\\neon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\valogp1.jpg",
+      "PackagePath": "staticwebassets\\css\\valogp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\valogp2.jpg",
+      "PackagePath": "staticwebassets\\css\\valogp2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\valogp3.jpg",
+      "PackagePath": "staticwebassets\\css\\valogp3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\valogp4.jpg",
+      "PackagePath": "staticwebassets\\css\\valogp4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\css\\valorant.jpg",
+      "PackagePath": "staticwebassets\\css\\valorant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ojt\\source\\repos\\Sampol\\Sampol\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Sampol.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Sampol.props",
+      "PackagePath": "build\\Sampol.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Sampol.props",
+      "PackagePath": "buildMultiTargeting\\Sampol.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Sampol.props",
+      "PackagePath": "buildTransitive\\Sampol.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
