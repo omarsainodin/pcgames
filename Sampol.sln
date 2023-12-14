@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sampol", "Sampol\Sampol.csproj", "{E56B1FCE-92D8-4E57-9A49-2C6886E5836D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcgames", "pcgames\pcgames.csproj", "{E56B1FCE-92D8-4E57-9A49-2C6886E5836D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
